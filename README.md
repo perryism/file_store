@@ -12,3 +12,9 @@ db.save("foo", "bar")
 assert db.get("foo") == "bar"
 
 ```
+
+# Installation
+
+```
+pip install git+https://github.com/perryism/file_store
+```
